@@ -38,7 +38,6 @@ IVI = 0.294 x H + 0.115 x E + 0.591 x U
 |---------------|-------------|
 | README.md | Project overview and documentation |
 | docs/Executive_Summary.pdf | Project pitch deck and executive summary |
-| docs/Hackathon_Brief.pdf | The official challenge brief provided by Futurethon and Bupa Arabia, outlining the IVI framework requirements, data dimensions, and expected deliverables |
 | data/sampled_preauth2.csv | Processed pre-authorization data sample |
 | data/Data_dictionary.xlsx | Column definitions for all datasets |
 | data/Provider_Info.xlsx | Hospital and clinic reference data |
