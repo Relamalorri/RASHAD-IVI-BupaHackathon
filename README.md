@@ -62,17 +62,5 @@ IVI = 0.294 x H + 0.115 x E + 0.591 x U
 
 ---
 
-## Team
-
-| Name |
-|------|
-| Relam AlOrri |
-| Asma Alattas |
-| Lana Adel |
-| Leen Khan |
-| Aya Ahmad |
-
----
-
 ## Disclaimer
 All data used is anonymized sample data provided by Bupa Arabia for educational purposes only and does not represent real individuals or records.
