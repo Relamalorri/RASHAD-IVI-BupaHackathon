@@ -37,12 +37,11 @@ IVI = 0.294 x H + 0.115 x E + 0.591 x U
 | Folder / File | Description |
 |---------------|-------------|
 | README.md | Project overview and documentation |
-| docs/rashad-pitch.pdf | Project pitch deck |
-| data/sampled_preauth2.csv | Processed pre-authorization data sample |
-| data/Data_dictionary.xlsx | Column definitions for all datasets |
-| data/Provider_Info.xlsx | Hospital and clinic reference data |
+| docs/rashad-pitch.pdf | Project pitch deck and executive summary presented at Futurethon 2025 |
+| data/Data_dictionary.xlsx | Column definitions for all datasets provided by Bupa Arabia |
+| data/Provider_Info.xlsx | Hospital and clinic reference information |
 | data/README.md | Notes on raw datasets not included in repo |
-| model/IVI_methodology.md | IVI scoring logic, assumptions, and methodology |
+| model/IVI_methodology.md | IVI scoring logic, assumptions, and full methodology documentation |
 | notebooks/README.md | Code files to be added |
 
 ---
@@ -52,8 +51,26 @@ IVI = 0.294 x H + 0.115 x E + 0.591 x U
 
 ---
 
+## Built With
+
+| Tool | Purpose |
+|------|---------|
+| Python | Data processing and IVI scoring model |
+| Power BI | Data exploration and visualization |
+| Manus AI | Dashboard development and deployment |
+| Excel | Initial data exploration and validation |
+
+---
+
 ## Team
-Built at Futurethon 2025 — KAU HealthTech Track
+
+| Name |
+|------|
+| Relam AlOrri |
+| Asma Alattas |
+| Lana Adel |
+| Leen Khan |
+| Aya Ahmad |
 
 ---
 
